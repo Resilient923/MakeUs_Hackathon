@@ -9,7 +9,7 @@
 ---
 ## 해커톤 주제
 >Hackathon Topic : 코로나 관련 Application 만들기
->Application = Corona + BucketList = CoketList
+Application = Corona + BucketList = CoketList
 ---
 ## 개발 기간
 > 2021-03-13 9:00 ~ 18:00
