@@ -23,6 +23,23 @@
 
 
 ---
-## License
-### 본 템플릿은 소프트스퀘어드 MakeUs에 소유권이 있으며 본 자료에 대한 상업적 이용 및 무단 복제,배포 및 변경을 원칙적으로 금지하며 이를 위반할 때에는 형사처벌을 받을 수 있습니다.
+## 노션 설계
+>https://www.notion.so/makeus-3dc93b8e40694f4fbac621699179220d
+
+## ERD 설계도
+
+>https://aquerytool.com:443/aquerymain/index/?rurl=da660071-89ba-41b8-8e8a-89a8fef81e00
+
+>password : kn1e04
+
+
+## API 명세서
+
+>https://docs.google.com/spreadsheets/d/1cMw8kkj9oi296dg8sdq1ryE0yYP5aI8TZDRrPufuGWQ/edit?usp=sharing
+
+## 구성 화면 제플린 Url
+>https://app.zeplin.io/project/604a0edac507fc8a90c62949
+
+
+
 
