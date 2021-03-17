@@ -3,7 +3,7 @@
 ## 팀원
 
 * [이하늘(Jane)](https://github.com/sky6592) : AOS 개발
-* [이유상(Andrew)](https://github.com/liyusang1) : 안드로이드 개발
+* [이유상(Andrew)](https://github.com/liyusang1) : 서버 개발
 * 한서영(Sarah) : 디자이너
 ## MakeUs Hackathon에 사용된 서버 코드입니다.
 ---
